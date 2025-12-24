@@ -9,7 +9,7 @@
 - 🧬 **Biologia**  
 
 Você também pode **criar seu próprio quiz**!  
-O jogo utiliza uma **pilha encadeada (LIFO)** e dá **3 vidas** para acertar as perguntas. Se errar todas, é **Game Over**.  
+O jogo utiliza uma **pilha encadeada (LIFO)** e dá **3 vidas** para acertar as perguntas. Se errar todas, **Game Over**.  
 
 ---
 
