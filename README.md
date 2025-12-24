@@ -59,6 +59,7 @@ Representa a pilha de perguntas:
 
 ## 👥 Integrantes do Trabalho
 
-- **Arian Queiroz Dantas**
-- **Francisco Gabriel Carvalho**
-- **Giovana Joice Costa Moreira**
+- **[Arian Queiroz Dantas](https://github.com/arianqueiroz)**
+- **[Francisco Gabriel Carvalho](https://github.com/Fratis35)**
+- **[Giovana Joice Costa Moreira](https://github.com/GiovanaJoice)**
+
