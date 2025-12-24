@@ -55,3 +55,10 @@ Representa a pilha de perguntas:
 | `destroyQuiz()` | Libera toda a memória alocada para a pilha |
 | `menu()` | Mostra o menu principal do jogo e lê a opção do usuário |
 
+---
+
+## 👥 Integrantes do Trabalho
+
+- **Arian Queiroz Dantas**
+- **Francisco Gabriel Carvalho**
+- **Giovana Joice Costa Moreira**
